@@ -17,4 +17,4 @@ else :
  valor_total =  area_total * 1000
 
 # Saida de Dados
-print("A área total da residência é %d, e o valor total é R$5%.2f" %(area_total, valor_total))
+print("A área total da residência é %d, e o valor total é R$%.2f" %(area_total, valor_total))
